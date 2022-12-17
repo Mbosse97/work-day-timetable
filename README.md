@@ -10,4 +10,4 @@ in addition to this, the day js API was used in order to present the current dat
 
 Problems remaining: issues involving saving data to local stoarge in order to keep it on the webpage
 
-deployed website: 
+deployed website: https://mbosse97.github.io/work-day-timetable/
